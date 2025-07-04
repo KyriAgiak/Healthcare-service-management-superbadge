@@ -1,0 +1,17 @@
+.bold-header {
+  font-weight: 500; /* thicker */
+  font-size: 1.0rem; /* larger */
+}
+
+.clickable-link {
+    color: #2a4365; /* subtle navy/dark blue */
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.clickable-link:hover {
+    color: #1a365d;
+    text-decoration: underline;
+}
