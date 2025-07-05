@@ -1,0 +1,61 @@
+Appointment__c,Patient__c,Coverage__c,Claim_Amount__c,Discount__c,Owner
+4dc31ac1-f958-410c-a472-b1cd9ec1516c,1,Full Coverage,254,0,Kyriakos Agiakloglou
+2b23f318-3de8-4076-9b27-e129aefaee98,1,No coverage,0,0,Kyriakos Agiakloglou
+c08a8e54-10fe-4dcd-bd93-7429ee327f66,2,Discount,215.9,15,Kyriakos Agiakloglou
+720d6b2e-a797-4bec-a684-6c0c9c3d414c,2,No coverage,0,0,Kyriakos Agiakloglou
+2fa00bda-5a5a-44f2-9b74-6dfc51f6a5ee,3,Full Coverage,243,0,Kyriakos Agiakloglou
+b13be9f7-f584-4b37-9aad-7a68318d13f1,3,No coverage,0,0,Kyriakos Agiakloglou
+fb9eadc0-9cc1-4224-a240-f9476fa5bb86,4,Discount,104.55,15,Kyriakos Agiakloglou
+48689f02-9aff-4408-92c6-ef037e6ff3d4,4,No coverage,0,0,Kyriakos Agiakloglou
+7b613085-6638-4bbe-bfcb-c7e16d381fa8,5,Full Coverage,289,0,Kyriakos Agiakloglou
+f171d9c4-465e-43cd-907c-84155c352bee,5,Discount,245.65,15,Kyriakos Agiakloglou
+ee38dba7-c357-43cc-b987-3e410ccebd71,6,No coverage,0,0,Kyriakos Agiakloglou
+edccc5d7-adbc-4931-a8e8-1d9e979ccadd,6,Full Coverage,243,0,Kyriakos Agiakloglou
+848d7826-ce3c-40a0-adce-6f5ddb30ed9a,7,No coverage,0,0,Kyriakos Agiakloglou
+b30bc38d-382c-42d2-b2cb-332fc0e6f9e1,7,Full Coverage,273,0,Kyriakos Agiakloglou
+7807c975-9cb9-4bd0-b825-0f76afaff0c0,8,No coverage,0,0,Kyriakos Agiakloglou
+04f68807-5274-4be4-9a9c-c7effc9723f6,8,Discount,136,20,Kyriakos Agiakloglou
+dc2485f4-f1bb-4b3a-82ef-d935e6c5a88b,9,Full Coverage,288,0,Kyriakos Agiakloglou
+59e6a22b-8236-4166-9e9e-314cace21632,9,Full Coverage,239,0,Kyriakos Agiakloglou
+17f5ff0d-9f84-4be8-90b4-8447ab7a542d,10,No coverage,0,0,Kyriakos Agiakloglou
+09aa14ef-301b-49c1-b7ef-7be5622b6230,10,No coverage,0,0,Kyriakos Agiakloglou
+29f51a90-bd5e-4d63-a54a-2a89f9e9ae5b,11,No coverage,0,0,Kyriakos Agiakloglou
+477aaa2b-ab06-4ee0-bad9-3f97200381ba,11,No coverage,0,0,Kyriakos Agiakloglou
+5367e896-be39-4c3f-9a91-d83f5ac02bc5,12,No coverage,0,0,Kyriakos Agiakloglou
+cf2c6b50-d0dd-4213-9261-c3779e6b3d5b,12,No coverage,0,0,Kyriakos Agiakloglou
+f9656db9-931d-452c-a00e-f5d465bf0639,13,No coverage,0,0,Kyriakos Agiakloglou
+39d3e67c-ed39-424e-ac94-ef74f00f71df,13,Discount,141.3,10,Kyriakos Agiakloglou
+86120339-012b-467d-a0f3-916606af78f5,14,No coverage,0,0,Kyriakos Agiakloglou
+947c0873-2099-432d-8532-ef0bf278b08a,14,Full Coverage,170,0,Kyriakos Agiakloglou
+fd80f5a0-ca9b-4616-b981-b2fb06020e9d,15,No coverage,0,0,Kyriakos Agiakloglou
+2ed15aa3-806c-4b11-a423-abb493ba03ee,15,No coverage,0,0,Kyriakos Agiakloglou
+28d21f1e-04ed-4c25-9ccd-3c762d0960ac,16,Full Coverage,289,0,Kyriakos Agiakloglou
+b84f1d85-3de0-47ad-9e48-c1b70014c182,16,Full Coverage,239,0,Kyriakos Agiakloglou
+9f1900a9-0607-49e4-b8af-59fd290ae21c,17,Full Coverage,251,0,Kyriakos Agiakloglou
+5da709fa-1b42-46df-b9d9-0973abf9f196,17,Discount,115.2,10,Kyriakos Agiakloglou
+4039ba66-00a5-4798-ba94-17f4ec4eea8d,18,No coverage,0,0,Kyriakos Agiakloglou
+ccd25f49-6aa8-4ce2-90b6-201cedace84d,18,Discount,115.2,10,Kyriakos Agiakloglou
+e6cdeb77-06be-411d-ad13-40367bbd2bf6,19,Full Coverage,159,0,Kyriakos Agiakloglou
+aafa3074-9fa3-45a4-a96a-3b1bf2deab03,19,No coverage,0,0,Kyriakos Agiakloglou
+8f4cbb11-8a27-4287-95dd-a284651f6978,20,No coverage,0,0,Kyriakos Agiakloglou
+0838ece2-645a-40e8-a2e6-d0f7910f5367,20,No coverage,0,0,Kyriakos Agiakloglou
+4e699d77-0f99-4a36-880b-3c4018cdbe74,21,Full Coverage,159,0,Kyriakos Agiakloglou
+092a3e75-5f13-431c-86cf-7597c254a9bf,21,No coverage,0,0,Kyriakos Agiakloglou
+f3cf8dbc-d71e-4184-9dd8-1b45e2190972,22,No coverage,0,0,Kyriakos Agiakloglou
+a2d16e16-8776-4201-9113-e4b7211c8105,22,Full Coverage,273,0,Kyriakos Agiakloglou
+4d5a47ce-7b72-430c-a752-20d1a5ad027a,23,No coverage,0,0,Kyriakos Agiakloglou
+f9d9ca2f-e624-40dc-bd97-50a490a128d6,23,Full Coverage,239,0,Kyriakos Agiakloglou
+9f560754-ff28-41f0-a684-35095f91d431,24,No coverage,0,0,Kyriakos Agiakloglou
+15cfbb0e-f469-4ccf-8ea6-b2c46af057fa,24,Full Coverage,263,0,Kyriakos Agiakloglou
+cc3c4863-0a0a-4625-a7ee-5f2ee0442ef2,25,No coverage,0,0,Kyriakos Agiakloglou
+fd5d15ad-e32b-49de-9598-c1c186672e6b,25,Discount,260.1,10,Kyriakos Agiakloglou
+f8c2de28-e024-48d0-bf53-b2ae024fa763,26,No coverage,0,0,Kyriakos Agiakloglou
+a01360fd-c639-43ed-97e2-4dca3aa6ba38,26,Discount,213.35,15,Kyriakos Agiakloglou
+43e2e0b0-77e7-478f-910f-08ae70870064,27,No coverage,0,0,Kyriakos Agiakloglou
+34f8680e-19d4-4cd9-8bf5-a6aef7d60ce7,27,Discount,244.8,15,Kyriakos Agiakloglou
+a29ff25d-2e46-4420-a09a-1177576d1282,28,No coverage,0,0,Kyriakos Agiakloglou
+9c5144a4-e402-4a65-bda5-71842ebab3a4,28,Full Coverage,108,0,Kyriakos Agiakloglou
+4bf14d0c-158e-4201-ba67-13144734a6fc,29,Full Coverage,288,0,Kyriakos Agiakloglou
+d0c00b15-fe3b-418d-b13e-14b67bf301ba,29,No coverage,0,0,Kyriakos Agiakloglou
+56363b5f-209f-47b3-be97-38d0841cac78,30,Full Coverage,273,0,Kyriakos Agiakloglou
+b9eeaab1-660e-46d5-898f-f498a376ad7a,30,Full Coverage,170,0,Kyriakos Agiakloglou

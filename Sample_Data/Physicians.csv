@@ -1,0 +1,16 @@
+Physician_Name__c,E_mail__c,Location__c,Physician_Location__Street__s,Physician_Location__City__s,Physician_Location__PostalCode__s,Specialty__c,Fee__c,RecordTypeId,,Owner
+Dr. A,dra@clinic.com,Medical Center 1,1 Health St,London,MA 02100,Pathology,263,012gL000000idnFQAQ,,Kyriakos Agiakloglou
+Dr. B,drb@clinic.com,Medical Center 2,2 Health St,Paris,MA 02101,Pathology,128,012gL000000idnFQAQ,,Kyriakos Agiakloglou
+Dr. C,drc@clinic.com,Medical Center 3,3 Health St,Nantes,MA 02102,Pathology,106,012gL000000idnFQAQ,,Kyriakos Agiakloglou
+Dr. D,drd@clinic.com,Medical Center 4,4 Health St,Amsterdam,MA 02103,Pathology,289,012gL000000idnFQAQ,,Kyriakos Agiakloglou
+Dr. E,dre@clinic.com,Medical Center 5,5 Health St, Munich,MA 02104,Pathology,170,012gL000000idnFQAQ,,Kyriakos Agiakloglou
+Dr. F,drf@clinic.com,Medical Center 6,6 Health St,Barcelona,MA 02105,Dermatology,157,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. G,drg@clinic.com,Medical Center 7,7 Health St,Turin,MA 02106,Dermatology,288,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. H,drh@clinic.com,Medical Center 8,8 Health St,Istanbul,MA 02107,Cardiology,273,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. I,dri@clinic.com,Medical Center 9,9 Health St,Sofia,MA 02108,Neurology,239,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. J,drj@clinic.com,Medical Center 10,10 Health St,Berlin,MA 02109,Cardiology,251,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. K,drk@clinic.com,Medical Center 11,11 Health St,Budapest,MA 02110,Pediatrics,108,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. L,drl@clinic.com,Medical Center 12,12 Health St,Madrid,MA 02111,Cardiology,123,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. M,drm@clinic.com,Medical Center 13,13 Health St,Valencia,MA 02112,Dermatology,159,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. N,drn@clinic.com,Medical Center 14,14 Health St,Palermo,MA 02113,Urology,254,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
+Dr. O,dro@clinic.com,Medical Center 15,15 Health St,Brest,MA 02114,Cardiology,243,012gL000000ehxVQAQ,,Kyriakos Agiakloglou
